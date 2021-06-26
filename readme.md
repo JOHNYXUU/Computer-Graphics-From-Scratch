@@ -16,7 +16,7 @@ B站录播：[bilibli](https://www.bilibili.com/video/BV1X7411F744?from=search&s
 
 仓库链接：[tinyrenderer](https://github.com/ssloy/tinyrenderer)
 
-简介：知乎老哥推荐练手，500行写一个轻量级渲染引擎。准备学、、、
+简介：知乎老哥推荐练手，500行写一个轻量级渲染引擎。弃坑
 
 # webgl-programming-guide
 
