@@ -1,0 +1,37 @@
+﻿  geometry.cpp
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,36): error C2976: “Vec3”: 模板 参数太少
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.h(25): message : 参见“Vec3”的声明
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,65): error C2988: 不可识别的模板声明/定义
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,65): error C2059: 语法错误:“const”
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,73): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,82): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,91): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,100): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,109): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,118): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7,120): error C2448: “z”: 函数样式初始值设定项类似函数定义
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,38): error C2976: “Vec3”: 模板 参数太少
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.h(25): message : 参见“Vec3”的声明
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,65): error C2988: 不可识别的模板声明/定义
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,65): error C2059: 语法错误:“const”
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,69): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,72): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,67): error C2374: “x”: 重定义；多次初始化
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7): message : 参见“x”的声明
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,77): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,80): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,75): error C2374: “y”: 重定义；多次初始化
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7): message : 参见“y”的声明
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,85): error C2065: “v”: 未声明的标识符
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,88): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,83): error C2374: “z”: 重定义；多次初始化
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(7): message : 参见“z”的声明
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\geometry.cpp(10,90): error C2448: “z”: 函数样式初始值设定项类似函数定义
+  main.cpp
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\main.cpp(60,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\main.cpp(67,107): error C2440: “<function-style-cast>”: 无法从“initializer list”转换为“TGAColor”
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\main.cpp(67,107): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\main.cpp(67,37): error C2064: 项不会计算为接受 3 个参数的函数
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\main.cpp(67,108): error C2660: “TGAImage::set”: 函数不接受 2 个参数
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\tgaimage.h(87,7): message : 参见“TGAImage::set”的声明
+  正在生成代码...

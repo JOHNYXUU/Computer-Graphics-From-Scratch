@@ -1,0 +1,2 @@
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\Debug\myrenderer.exe
+D:\pass\directory\Computer-Graphics-From-Scratch\tinyrenderer\myrenderer\Debug\myrenderer.pdb
